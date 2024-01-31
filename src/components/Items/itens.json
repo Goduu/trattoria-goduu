@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Mediterranean Pasta",
+    "description": "Indulge in the symphony of the sea with our Mediterranean Pasta, a delectable blend of fresh, succulent seafood and aromatic spices, twirled in perfectly cooked spaghetti. A true chef's specialty, brimming with the treasures of the ocean.",
+    "photo": "/pratos/macarrao_mediterraneo.png",
+    "size": 400,
+    "serving": 2,
+    "price": 33.0,
+    "categories": ["Pasta", "Seafood"]
+  },
+  {
+    "id": 2,
+    "title": "Pasta du Chef",
+    "description": "Experience the essence of the ocean with our Pasta du Chef, a harmonious mix of the finest seafood and exotic spices. Each bite is a culinary journey, rich in flavor and crafted with care. Please note: This dish celebrates the bounty of the sea, including shrimp.",
+    "photo": "/pratos/macarrao_da_casa.png",
+    "size": 420,
+    "serving": 2,
+    "price": 34.0,
+    "categories": ["Pasta", "Seafood"]
+  },
+  {
+    "id": 3,
+    "title": "Chilli Pasta",
+    "description": "Ignite your taste buds with our Chilli Pasta, a daring fusion of fettuccine and fiery chilli sauce. Infused with a selection of hand-picked spices, this dish promises a thrilling adventure in every forkful.",
+    "photo": "/pratos/macarrao_com_chilli.png",
+    "size": 360,
+    "serving": 1,
+    "price": 32.0,
+    "categories": ["Pasta", "Spicy", "Vegetarian"]
+  },
+  {
+    "id": 4,
+    "title": "House Salad with Grilled Salmon",
+    "description": "Savor the freshness of our House Salad, a vibrant medley of crisp lettuce, peppery arugula, and sweet carrots, topped with exquisitely grilled salmon. A dish that's as nourishing as it is delicious.",
+    "photo": "/pratos/salada_da_casa.png",
+    "size": 450,
+    "serving": 1,
+    "price": 35.0,
+    "categories": ["Fish"]
+  },
+  {
+    "id": 5,
+    "title": "Steak with Potatoes",
+    "description": "Feast on our classic Steak with Potatoes, featuring a succulent, grilled-to-perfection beef steak alongside golden, crispy french fries. Complemented with fluffy rice and a selection of delectable sauces, this meal is a hearty delight.",
+    "photo": "/pratos/bife_com_batatas.png",
+    "size": 550,
+    "serving": 2,
+    "price": 66.0,
+    "categories": ["Meat"]
+  },
+  {
+    "id": 6,
+    "title": "Diced Picanha with Vegetables and Pasta",
+    "description": "Indulge in our Diced Picanha, a generous serving of richly flavored beef, paired with grilled, garden-fresh vegetables and your choice of pasta. This dish is a testament to our commitment to quality and taste.",
+    "photo": "/pratos/picanha_picada.png",
+    "size": 850,
+    "serving": 3,
+    "price": 103.0,
+    "categories": ["Meat"]
+  },
+  {
+    "id": 7,
+    "title": "Vegan Lasagna",
+    "description": "Dive into our Vegan Lasagna, a 100% plant-based masterpiece made with savory soy meat and layers of specialty pasta. Each slice is a testament to how delicious vegan cuisine can be.",
+    "photo": "/pratos/lasagna_vegana.png",
+    "size": 350,
+    "serving": 1,
+    "price": 25.0,
+    "categories": ["Vegan"]
+  },
+  {
+    "id": 8,
+    "title": "Special Salad",
+    "description": "Discover the joy of our Special Salad, a vibrant and healthful blend of creamy avocado, sweet mango, crisp lettuce, and nutritious chickpeas. A salad that's not just a dish, but a celebration of flavor and wellness.",
+    "photo": "/pratos/salada_especial.png",
+    "size": 340,
+    "serving": 1,
+    "price": 23.0,
+    "categories": ["Vegan"]
+  },
+  {
+    "id": 9,
+    "title": "Meatballs",
+    "description": "Relish our Meatballs, tender and flavorful, bathed in a rich sour cream sauce with a hint of onion and spices. Served with your choice of rice or pasta, this dish is comfort food at its finest.",
+    "photo": "/pratos/almondegas.png",
+    "size": 740,
+    "serving": 3,
+    "price": 100.0,
+    "categories": ["Meat"]
+  }
+]
