@@ -37,7 +37,7 @@ export const Items: FC<ItemsProps> = (props) => {
   useEffect(() => {
     const newList = menu.filter(item => testSearch(item.title, search) && testFilter(item.categories, filter));
     setItemsList(sort(newList, sortBy));
-  }, [search, filter, sort])
+  }, [search, filter, sortBy])
 
   return (
     <div className="flex flex-col gap-16 mb-10">
